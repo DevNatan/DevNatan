@@ -17,8 +17,8 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 ### Projects
 
 * [Katan Panel](https://github.com/KatanPanel) An open source game server management panel.
-* [docker-kotlin-multiplatform](https://github.com/DevNatan/docker-kotlin-multiplatform) Multiplatform Docker API client.
-* [doguinho](https://github.com/DevNatan/doguinho) IoC and DI for Vue.js inspired by NestJS.
+* [docker-kotlin-multiplatform](https://github.com/HiroshimaNegrosaki/docker-kotlin-multiplatform) Multiplatform Docker API client.
+* [doguinho](https://github.com/HiroshimaNegrosaki/doguinho) IoC and DI for Vue.js inspired by NestJS.
 
 <hr>
 
@@ -26,10 +26,10 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 
 [![Linked In](https://img.shields.io/badge/-ntvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntvieira/)](https://www.linkedin.com/in/ntvieira/)
 [![Gmail](https://img.shields.io/badge/-natanvnascimento@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanvnascimento@gmail.com)](mailto:natanvnascimento@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/DevNatan?label=follow&style=social)](https://github.com/DevNatan)
+[![GitHub](https://img.shields.io/github/followers/DevNatan?label=follow&style=social)](https://github.com/HiroshimaNegrosaki)
 
-<a href="https://github.com/DevNatan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevNatan&theme=dracula&show_icons=true" />
+<a href="https://github.com/HiroshimaNegrosaki">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiroshimaNegrosaki&theme=dracula&show_icons=true" />
 </a>
 
 <!--
