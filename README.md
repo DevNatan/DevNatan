@@ -29,5 +29,8 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 [![GitHub](https://img.shields.io/github/followers/DevNatan?label=follow&style=social)](https://github.com/DevNatan)
 
 <a href="https://github.com/DevNatan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevNatan&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevNatan&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/DevNatan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNatan&title_color=fe6e96&text_color=FFFFFF&icon_color=2bbc8a&bg_color=282a36" />
 </a>
