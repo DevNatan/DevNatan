@@ -5,16 +5,8 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 * 🤓 Learning [JetPack Compose](https://developer.android.com/jetpack/compose) and Rust.
 * 👀 I’m currently looking for a job.
 * 🌻 Passionate about open source and I try to contribute to projects of this nature whenever possible.
-
-### Skills
-* Programming languages: Kotlin, Java, C, Javascript and Typescript *(are the languages I use the most today)*.
-* CI/CD: Github Actions and TravisCI.
-* Container stuff: Docker and Kubernetes.
-* Databases: PostgreSQL, MongoDB, MySQL, Apache Cassandra and Redis.
-* Message brokers: RabbitMQ, Kafka and Redis.
-* Frontend: Vue.js and ReactJS.
-
-### Projects
+* 
+### My projects
 
 * [Katan Panel](https://github.com/KatanPanel) An open source game server management panel.
 * [docker-kotlin-multiplatform](https://github.com/DevNatan/docker-kotlin-multiplatform) Multiplatform Docker API client.
