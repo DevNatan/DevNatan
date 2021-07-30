@@ -5,7 +5,7 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 * 🤓 Learning [JetPack Compose](https://developer.android.com/jetpack/compose) and Rust.
 * 👀 I’m currently looking for a job.
 * 🌻 Passionate about open source and I try to contribute to projects of this nature whenever possible.
-* 
+
 ### My projects
 
 * [Katan Panel](https://github.com/KatanPanel) An open source game server management panel.
