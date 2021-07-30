@@ -7,7 +7,7 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 * 🌻 Passionate about open source and I try to contribute to projects of this nature whenever possible.
 
 ### Skills
-* Programming languages: Kotlin, Java, Javascript and Typescript *(are the languages I use the most today)*.
+* Programming languages: Kotlin, Java, C, Javascript and Typescript *(are the languages I use the most today)*.
 * CI/CD: Github Actions and TravisCI.
 * Container stuff: Docker and Kubernetes.
 * Databases: PostgreSQL, MongoDB, MySQL, Apache Cassandra and Redis.
