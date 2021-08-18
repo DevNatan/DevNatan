@@ -9,8 +9,6 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 ### My projects
 
 * [Katan Panel](https://github.com/KatanPanel) An open source game server management panel.
-* [docker-kotlin-multiplatform](https://github.com/DevNatan/docker-kotlin-multiplatform) Multiplatform Docker API client.
-* [doguinho](https://github.com/DevNatan/doguinho) IoC and DI for Vue.js inspired by NestJS.
 
 <hr>
 
