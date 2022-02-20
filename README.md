@@ -7,7 +7,7 @@ I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
 
 ### My projects
 * [Katan Panel](https://github.com/KatanPanel) An open source game server management panel.
-* [yoki](https://github.com/KatanPanel/yoki) Multiplatform Docker API client.
+* [inventory-framework](https://github.com/DevNatan/inventory-framework) Bukkit Inventory API framework.
 
 ### Where to find me
 [![Linked In](https://img.shields.io/badge/-ntvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntvieira/)](https://www.linkedin.com/in/ntvieira/)
