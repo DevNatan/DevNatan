@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Natan Vieira and i’m 18yo and i’m currently working as a Freelancer.
+I’m Natan Vieira, 18, currently working as a Freelancer.
 
 * 🤓 Learning [JetPack Compose](https://developer.android.com/jetpack/compose) and Rust.
 * 👀 I’m currently looking for a job.
