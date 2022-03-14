@@ -5,8 +5,8 @@
 
 I’m Natan Vieira, 18!
 
-* 🤓 Learning [JetPack Compose](https://developer.android.com/jetpack/compose) and [Rust](https://www.rust-lang.org).
-* 🌻 Passionate about open source and i try to contribute to projects of this nature whenever possible.
+🤓 Learning [JetPack Compose](https://developer.android.com/jetpack/compose) and [Rust](https://www.rust-lang.org).\
+🌻 Passionate about open source and i try to contribute to projects of this nature whenever possible.
 
 ### Where to find me
 [![Linked In](https://img.shields.io/badge/-ntvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntvieira/)](https://www.linkedin.com/in/ntvieira/)
