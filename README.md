@@ -1,13 +1,8 @@
 ### Hi there 👋
-I’m Natan Vieira, 18, currently working as a Freelancer.
+I’m Natan Vieira, 18!
 
-* 🤓 Learning [JetPack Compose](https://developer.android.com/jetpack/compose) and Rust.
-* 👀 I’m currently looking for a job.
-* 🌻 Passionate about open source and I try to contribute to projects of this nature whenever possible.
-
-### My projects
-* [Katan Panel](https://github.com/KatanPanel) An open source game server management panel.
-* [inventory-framework](https://github.com/DevNatan/inventory-framework) Bukkit Inventory API framework.
+* 🤓 Learning [JetPack Compose](https://developer.android.com/jetpack/compose) and [Rust](https://www.rust-lang.org).
+* 🌻 Passionate about open source and i try to contribute to projects of this nature whenever possible.
 
 ### Where to find me
 [![Linked In](https://img.shields.io/badge/-ntvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntvieira/)](https://www.linkedin.com/in/ntvieira/)
